@@ -1,2 +1,6 @@
 # MoonPrint3D
 File repository for Apollo sample 3D printing
+
+Images used to create the 3D models sourced from https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm
+
+_Apollo Lunar Sample Credit: NASA/These 3D reconstructed image data were produced at the Lunar Sample Laboratory Facility for Astromaterials 3D in NASA’s Acquisition & Curation Office and were funded by NASA Planetary Data Archiving, Restoration, and Tools Program, Proposal No.: 15-PDART15_2-0041._
